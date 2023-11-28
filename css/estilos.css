@@ -243,6 +243,22 @@ header .textos h3 {
     text-align: center;
 }
 
+/* ----- ----- CALENDAR ----- ----- */
+.main .calendar {
+    margin-top: 90px;
+}
+
+.main .calendar .titulo {
+    font-size: 50px;
+    font-weight: 300;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.main .calendar div{
+    width: "90hw";
+}
+
 /* ----- ----- FOOTER ----- ----- */
 footer {
     background: #000;
